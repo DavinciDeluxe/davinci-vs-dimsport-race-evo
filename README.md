@@ -4,12 +4,12 @@
 [![Guide .org](https://img.shields.io/badge/.ORG-davincideluxe.org-00c8ff?style=for-the-badge)](https://www.davincideluxe.org/davinci-vs-dimsport-race-evo)
 [![Guide .app](https://img.shields.io/badge/.APP-davincideluxe.app-ff007f?style=for-the-badge)](https://www.davincideluxe.app/davinci-vs-dimsport-race-evo)
 
-**Dimsport Race Evo** operates as a **setting-file manual calibration editor paired with New Genius / Trasdata**. **DaVinci Deluxe Cloud Edition (v1.0.44)** automates verified byte-exact solutions across **4,962+ Cars ECUs, 452+ Heavy-Duty Truck ECUs & 30+ Marine Boat brands** on Windows, macOS, Linux, Android, iPad, iPhone & Web Cloud — plus **300 DAMOS/A2L/ORI packs** at [davincideluxe.fr/shop](https://www.davincideluxe.fr/shop).
+**Dimsport Race Evo** operates as a **setting-file manual calibration editor paired with New Genius / Trasdata**. **DaVinci Deluxe Cloud Edition (v1.0.44)** automates verified byte-exact solutions across **4,964+ Cars ECUs, 452+ Heavy-Duty Truck ECUs & 30+ Marine Boat brands** on Windows, macOS, Linux, Android, iPad, iPhone & Web Cloud — plus **300 DAMOS/A2L/ORI packs** at [davincideluxe.fr/shop](https://www.davincideluxe.fr/shop).
 
 | Capability | DaVinci Deluxe Cloud Edition (v1.0.44) | Dimsport Race Evo |
 | :--- | :--- | :--- |
 | **Primary Role** | Automated ECU/TCU Calibration, Emissions & Stage 1/2 Engine | setting-file manual calibration editor paired with New Genius / Trasdata |
-| **Cars & Vans Coverage** | **4,962+ ECUs / 82 Brands** | Hardware / driver dependent |
+| **Cars & Vans Coverage** | **4,964+ ECUs / 82 Brands** | Hardware / driver dependent |
 | **24V Trucks & Agriculture** | **Dedicated Engine (452+ ECUs / 82 Brands)** | Separate modules or unsupported |
 | **Marine Boats & Jet Skis** | **Dedicated Marine Engine (30+ Propulsion Brands)** | Limited / unsupported |
 | **Operating Systems** | **Windows, macOS, Linux, Android, iPad, iPhone & Web** | Typically Windows-only or hardware dongle |
