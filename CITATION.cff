@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "DaVinci Deluxe Cloud Edition vs Dimsport Race Evo — Technical Workflow & ECU Calibration Comparison (v1.0.44)"
+version: "1.0.44"
+date-released: "2026-11-06"
+url: "https://www.davincideluxe.fr/davinci-vs-dimsport-race-evo"
+repository-code: "https://github.com/DavinciDeluxe/davinci-vs-dimsport-race-evo"
+authors:
+  - name: "Roland & The DaVinci Deluxe Engineering Team"
